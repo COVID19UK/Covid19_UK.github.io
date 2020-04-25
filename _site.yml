@@ -1,0 +1,15 @@
+name: "Covid-19 - UK"
+output_dir: "."
+navbar:
+  title: "Covid-19 - UK"
+  left:
+    - text: "Datos de hoy"
+      href: index.html
+    - text: "Nuevos casos diarios"
+      href: casos.html
+    - text: "Predicciones"
+      href: predicciones.html
+    - text: "Situación mundial"
+      href: situacion.html
+    - text: "Ayuda"
+      href: ayuda.html
